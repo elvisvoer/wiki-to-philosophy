@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/elvisvoer/wiki-to-philosophy/issues"
   },
-  "homepage": "https://github.com/elvisvoer/wiki-to-philosophy#readme"
+  "homepage": "https://github.com/elvisvoer/wiki-to-philosophy#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
