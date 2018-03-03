@@ -1,0 +1,19 @@
+{
+  "name": "wiki-to-philosophy",
+  "version": "1.0.0",
+  "description": "Getting to Philosophy game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvisvoer/wiki-to-philosophy.git"
+  },
+  "author": "Elvis Adomnica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elvisvoer/wiki-to-philosophy/issues"
+  },
+  "homepage": "https://github.com/elvisvoer/wiki-to-philosophy#readme"
+}
